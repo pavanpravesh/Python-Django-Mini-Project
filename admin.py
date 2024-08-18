@@ -6,3 +6,4 @@ admin.site.register(allcourses)
 admin.site.register(details)
 
 # Register your models here.
+#Test Commit
